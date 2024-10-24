@@ -106,6 +106,7 @@ header {
     .contenedor-combo{
       text-align: center; 
       font-size: 14px;
+      padding: auto;
       
     }
     .main .trabajos .contenedor-trabajos .trabajo {
